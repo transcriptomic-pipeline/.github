@@ -10,7 +10,7 @@ Welcome to the **Transcriptomic Pipeline** organization. This workspace hosts a 
 
 **Supervisor:** Dr. Jyoti Sharma
 
-**Affiliations:** Institute of Bioinformatics (IOB), Bangalore, India & Department of Bioinformatics, Pondicherry University
+**Affiliations:** Manipal Academy of Higher Education (MAHE), Manipal, India & Institute of Bioinformatics (IOB), Bangalore, India
 
 ---
 
